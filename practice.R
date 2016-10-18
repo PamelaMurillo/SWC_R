@@ -1,6 +1,8 @@
 # What:software
 #When Octuber 16
+# where library UM
 #Who Pamela
+# packages
 install.packages('RSQLite')
 
 library(RSQLite)
